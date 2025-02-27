@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=mehdid0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently a **Mobile App Developper FLUTTER**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

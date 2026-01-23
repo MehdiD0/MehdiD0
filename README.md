@@ -20,7 +20,7 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elmahdi-bendimerad-2b8419243/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-el-mahdi-bendi/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
   </a>
   <a href="https://instagram.com/dii._._i" target="_blank">

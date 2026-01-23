@@ -18,7 +18,7 @@
 
 ---
 
-# Buy me a coffee
+### ☕ Buy me a coffee
 
 <p align="center">
   <a href="https://ko-fi.com/mehdibendi" target="_blank">

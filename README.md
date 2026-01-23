@@ -18,6 +18,15 @@
 
 ---
 
+# Buy me a coffee
+
+<p align="center">
+  <a href="https://ko-fi.com/mehdibendi" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
+  </a>
+</p>
+
+
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-el-mahdi-bendi/" target="_blank">

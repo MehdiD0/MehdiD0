@@ -12,7 +12,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently focused on **Mobile App Development with Flutter**
 - 💡 Interested in **AI, Backend, and Scalable Applications**
 - 🎯 Always learning and building real-world projects
 

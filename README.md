@@ -1,72 +1,227 @@
-<h1 align="center">Hi, I'm Bendimerad Mohamed Elmahdi</h1>
-<h3 align="center">🚀 Passionate Mobile & Software Developer from Algeria 🇩🇿</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Elmahdi Bendimerad</h1>
+
+<h3 align="center">
+  🤖 AI Engineer • 💻 Software Developer • 📱 Mobile Developer
+</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="420" alt="Coding Animation"/>
+  <img src="https://komarev.com/ghpvc/?username=mehdid0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehdid0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-### 👨‍💻 About Me
-- 💡 Interested in **AI, Backend, and Scalable Applications**
-- 🎯 Always learning and building real-world projects
-
----
-
-
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-el-mahdi-bendi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
+  <a href="https://github.com/MehdiD0">
+    <img src="https://img.shields.io/github/followers/MehdiD0?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
-  <a href="https://instagram.com/dii._._i" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCIJs4Jo-L97QufWVjrDkoSQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35"/>
+  <a href="https://github.com/MehdiD0">
+    <img src="https://img.shields.io/github/stars/MehdiD0?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🚀 About Me
+
+I'm a **5th-year Computer Engineering student specialized in Artificial Intelligence** from Algeria 🇩🇿.
+
+I enjoy turning ideas into real-world applications, combining **AI, software engineering, backend systems, and mobile development**.
+
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 💻 Building **scalable software and backend systems**
+* 📱 Developing **cross-platform mobile applications**
+* 👁️ Working with **Computer Vision**
+* 🌐 Building modern **web applications and APIs**
+* 🧠 Always learning, experimenting, and building
+
+> *"Build. Learn. Improve. Repeat."* 🚀
+
+---
+
+## 🧠 What I Work With
+
+### 🤖 Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Object Detection
+* YOLO
+* OpenCV
+* AI-powered applications
+* Generative AI & LLM APIs
+
+### 💻 Software Development
+
+* Python
+* Java
+* C / C++
+* JavaScript
+* Dart
+* REST APIs
+* Object-Oriented Programming
+* Software Architecture
+
+### 🌐 Web & Backend
+
+* Django
+* React
+* Vite
+* Node.js
+* Supabase
+* Firebase
+* MySQL
+* MongoDB
+* PostgreSQL
+
+### 📱 Mobile
+
+* Flutter
+* Dart
+* Firebase
+* Supabase
+* GoRouter
+* Bloc
+* Hive
+
+### 🛠️ Tools
+
+* Git & GitHub
+* Docker
+* Linux
+* VS Code
+* Android Studio
+* Postman
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 Recruteur AI
+
+An AI-powered candidate screening platform designed to simplify the recruitment process.
+
+**Features:**
+
+* 🔎 Intelligent job matching
+* 📄 Browser-based CV/PDF parsing
+* 🧠 Adaptive AI interviews
+* 💬 Gemini-powered interview questions
+* 📊 Structured candidate feedback
+
+**Tech:** React • Vite • Gemini API • Supabase • JavaScript
+
+🔗 [View Project](https://github.com/MehdiD0/recruteur-ai)
+
+---
+
+### 🚗 Driver Distraction Detection
+
+A computer vision project focused on detecting driver distractions in real time.
+
+**Tech:** Python • YOLO • OpenCV • Computer Vision
+
+---
+
+### 📱 Flutter Applications
+
+Building cross-platform mobile applications with modern architecture and backend integration.
+
+**Tech:** Flutter • Dart • Firebase • Supabase • Bloc • Hive
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiD0&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiD0&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiD0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdid0&show_icons=true&theme=tokyonight" height="170"/>
-</p>
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdid0&layout=compact&theme=tokyonight" height="170"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="45"/>
+
 </p>
 
 ---
 
-### ☕ Buy me a coffee
+## 🌱 Currently Learning
+
+```text
+🤖 Advanced AI & Machine Learning
+👁️ Computer Vision
+🧠 Generative AI & LLM Applications
+🏗️ Software Architecture
+☁️ Cloud & Scalable Systems
+🐳 Docker & Deployment
+```
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://ko-fi.com/mehdibendi" target="_blank">
+
+<a href="https://www.linkedin.com/in/mohamed-el-mahdi-bendi/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/dii._._i">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/channel/UCIJs4Jo-L97QufWVjrDkoSQ">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35"/>
+</a>
+
+</p>
+
+<p align="center">
+  📍 Algeria 🇩🇿
+</p>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my projects or find something useful here, you can support me:
+
+<p align="center">
+  <a href="https://ko-fi.com/mehdibendi">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Keep building. Keep learning.</i>
 </p>

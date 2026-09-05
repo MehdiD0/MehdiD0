@@ -119,6 +119,8 @@ A computer vision project focused on detecting driver distractions in real time.
 
 **Tech:** Python • YOLO • OpenCV • Computer Vision
 
+🔗 [View Project](https://github.com/MehdiD0/Driver-Monitoring-System)
+
 ---
 
 ### 📱 Flutter Applications
